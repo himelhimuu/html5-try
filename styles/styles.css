@@ -3,4 +3,13 @@ nav li a{
 }
 nav li{
     list-style: none;
+    display: inline;
+    margin-right: 15px;
+
+}
+nav li:hover{
+    background-color: rgb(14, 218, 150);
+}
+footer{
+    text-align: center;
 }
